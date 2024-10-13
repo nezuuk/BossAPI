@@ -1,0 +1,4 @@
+name: BossAPI
+version: '${version}'
+main: ru.emrass.bossapi.BossApiCore
+api-version: '1.19'
